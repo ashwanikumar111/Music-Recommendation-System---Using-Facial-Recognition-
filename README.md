@@ -41,11 +41,11 @@ To run the app, type following command in terminal.
 
 ## Authors
 
-- [Anish Kumar](https://github.com/Anishkumar31/PROJECT)
+- [Ashwani Kumar](https://github.com/ashwanikumar111/PROJECT)
 
 
 
 ## Support
 
-For support, email anishkumar31804@gmail.com 
+For support, email akkumargupta7525@gmail.com 
 
