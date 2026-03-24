@@ -41,7 +41,7 @@ To run the app, type following command in terminal.
 
 ## Authors
 
-- [Ashwani Kumar](https://github.com/ashwanikumar111/PROJECT)
+- [Ashwani Kumar](https://github.com/repos?q=owner%3A%40me)
 
 
 
